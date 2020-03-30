@@ -1,0 +1,8 @@
+.item-add-form {
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.item-add-form input {
+  flex:0 1 70%;
+}
